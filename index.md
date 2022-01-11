@@ -10,8 +10,8 @@ Ariel's Office Hours are 2-2:30 MW or you can make an appointment outside those 
 
 | Date    | Videos | In Class | Due Friday at 5:00 PM|
 | :---:   | :---: | :---: |:---: |
-| 1/18/21 || FizzBuzz <br> [Remembering How to Program](https://docs.google.com/document/d/1Y3K6NgqBhbrvgdAhBuhSxez-SVLPUiMKBRC7AtqgaH4/edit) <br><a href="https://www." target="_blank">Style Guide</a> <br> |  |
-| 1/20/21 |Variables <br> If Statements <br> Loops | [Bingo](https://docs.google.com/document/d/1uDOeF56sy0N5KOWt3qG_oEE6wEYSmcF_W3UPbyyX9So/edit) <br> [String Practice](https://docs.google.com/document/d/1weCUA2uz0mdiowYvCuykUZ0Oem_tLXEF/edit#)  |(Due Friday) [Milestone 1](https://docs.google.com/document/d/1NIs9ORg_9E8Z3v8vMCliga-rmm5fnzd70Hi9kyXCcC8/edit?usp=sharing) |
+| 1/18/21 || FizzBuzz <br> Remembering How to Program <br><a href="https://www." target="_blank">Style Guide</a> <br> |  |
+| 1/20/21 |Variables <br> If Statements <br> Loops | Bingo <br> [String Practice](https://docs.google.com/document/d/1weCUA2uz0mdiowYvCuykUZ0Oem_tLXEF/edit#)  |(Due Friday) [Milestone 1](https://docs.google.com/document/d/1NIs9ORg_9E8Z3v8vMCliga-rmm5fnzd70Hi9kyXCcC8/edit?usp=sharing) |
 | 1/25/21 |Strings <br> Methods |Quiz! - for 0 points ... just a practice really <br> [Practice Arrays](https://drive.google.com/file/d/1wnmYDCTaAplN5k5IXhtVuQmDe94oqVGW/view?usp=sharing)||
 | 1/27/21 |Arrays|||
 | 2/1/21  |Casting <br> Mod <br> Scope|||
